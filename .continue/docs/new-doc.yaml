@@ -1,0 +1,6 @@
+name: laravel Doc
+version: 0.0.1
+schema: v1
+docs:
+  - name: laravel docs
+    startUrl: https://laravel.com/docs/12.x
